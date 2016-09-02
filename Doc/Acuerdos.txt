@@ -1,0 +1,5 @@
+Asistencia:
+- Faltan: -2 Puntos
+- Tarde: -1 Punto
+- Tolerancia: 15 min
+- Se considra solamente hasta las 8pm
