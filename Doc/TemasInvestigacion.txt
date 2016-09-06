@@ -1,0 +1,29 @@
+- Base de Datos NO-SQL
+
+
+- Alta Disponibilidad de Base de Datos
+
+
+- Data Warehouse
+
+
+- Minería de Datos
+
+
+
+- Intenigencia de Negocios
+
+
+
+- Microsoft PowerPivot
+
+
+
+- XML en las Bases de Datos
+
+
+- JSON en las Bases de Datos
+
+
+
+
