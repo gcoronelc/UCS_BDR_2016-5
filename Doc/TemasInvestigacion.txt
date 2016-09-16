@@ -9,11 +9,11 @@
 
 
 - Minería de Datos
-  Aldave, Balaguer
+  Aldave, Balaguer, CCallo
 
 
 - Intenigencia de Negocios
-
+  Bada, 
 
 
 - Microsoft PowerPivot
